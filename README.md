@@ -8,3 +8,5 @@
 * This game is based on the Google Higher/Lower game and is a simple text version for beginners. See http://www.higherlowergame.com/ which is described as "A frustratingly addictive game of higher or lower using Google searches."
 
 * Game mechanics are deceptively simple: a fact of how many people searched a term is given (based on 2017 results). The user is then told about another search term and invited to answer whether that search term has more (higher) or less (lower) results. If the user answers correctly, then that correct answer is kept as the search term and a new question appears. This game goes on until a wrong answer is given, whereupon some funny remark is made to encourage the user to play again or quit.
+
+https://replit.com/@HuzefaAhmed1/Day-14-of-100?v=1
